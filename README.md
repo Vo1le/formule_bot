@@ -14,8 +14,8 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 | `/inventory` | Voir ses auras (paginé) |
 | `/inventory <joueur>` | Voir l'inventaire d'un autre joueur |
 | `/sell <numéro/nom>` | Revendre une aura (confirmation bouton) |
-| `/balance` | Voir son solde UNB |
-| `/leaderboard` | Top 10 joueurs (4 modes de tri) |
+| `/solde` | Voir son solde UNB |
+| `/leader_roll` | Top 10 joueurs (4 modes de tri) |
 
 ---
 
@@ -42,7 +42,7 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 ---
 
-## 💡 Ajouter des auras
+## 💡 Ajouter des formules
 
 Édite `data/auras.js` et ajoute un objet dans le tableau `AURAS` :
 
