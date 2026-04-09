@@ -1,6 +1,6 @@
 # 🎲 Formules Bot — Case Opening Discord
 
-Bot Discord de case opening d'auras style **Sol's RNG**, avec intégration **UnbelievaBoat** pour les pièces et animations d'ouverture par édition de messages.
+Bot Discord de case opening de formules style **Sol's RNG**, avec intégration **UnbelievaBoat** pour les pièces et animations d'ouverture par édition de messages.
 
 ---
 
@@ -31,14 +31,14 @@ Bot Discord de case opening d'auras style **Sol's RNG**, avec intégration **Unb
 
 ## ✨ Forumules (19 au total)
 
-| Rareté | Auras | Chance approx. |
+| Rareté |  | Chance approx. |
 |--------|-------|----------------|
-| ⚪ Commun | Ember, Frost, Mud, Wind, Stone | 1/10 à 1/18 |
-| 🟢 Peu Commun | Lightning, Nature, Shadow, Ocean | 1/50 à 1/75 |
-| 🔵 Rare | Inferno, Storm, Crystal, Void | 1/250 à 1/500 |
-| 🟣 Épique | Dragon, Aurora, Soul | 1/2500 à 1/4000 |
-| 🟡 Légendaire | Celestial, Galaxy | 1/10000 à 1/15000 |
-| ⚡ Secret | Divinity, Oblivion | 1/100000 à 1/250000 |
+| ⚪ Commun |  | 1/10 à 1/18 |
+| 🟢 Peu Commun |  | 1/50 à 1/75 |
+| 🔵 Rare |  | 1/250 à 1/500 |
+| 🟣 Épique |  | 1/2500 à 1/4000 |
+| 🟡 Légendaire |  | 1/10000 à 1/15000 |
+| ⚡ Secret |  | 1/100000 à 1/250000 |
 
 ---
 
@@ -48,8 +48,8 @@ Bot Discord de case opening d'auras style **Sol's RNG**, avec intégration **Unb
 
 ```js
 {
-  id: "mon_aura",
-  name: "Mon Aura",
+  id: "ma_forumule",
+  name: "nom",
   rarity: "Rare",        // Commun | Peu Commun | Rare | Épique | Légendaire | Secret
   emoji: "🌟",
   color: 0xFF0000,       // couleur hex de l'embed
