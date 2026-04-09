@@ -29,7 +29,7 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 ---
 
-## ✨ Forumules (19 au total)
+## ✨ Formules (19 au total)
 
 | Rareté |  | Chance approx. |
 |--------|-------|----------------|
