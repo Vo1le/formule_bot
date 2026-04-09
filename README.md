@@ -60,4 +60,4 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 },
 ```
 
-Made by : Volte. Discord : @_volte_
+Made by : Volte. Discord : @(underscore)volte(underscore)
