@@ -59,3 +59,5 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
   frames: ["🌑","🌟","✨🌟","🌟✨🌟","🌟"],  // frames d'animation
 },
 ```
+
+Made by : Volte. Discord : _volte_
