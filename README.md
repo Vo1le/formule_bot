@@ -23,9 +23,9 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 | Case | Prix | Contenu |
 |------|------|---------|
-| 📦 Basique | 100 🪙 | Toutes les raretés, chances classiques |
-| 💜 Premium | 500 🪙 | Commun -50%, Rare+, Épique x3 |
-| ✨ Légendaire | 2000 🪙 | Minimum Rare, Légendaire x10, Secret x15 |
+| Case Basique 📦 | 100 🪙 | Toutes les raretés, chances classiques |
+| Case Prépa 📚| 500 🪙 | Commun -50%, Rare+, Épique x3 |
+| Case Normalien 🎓 | 2000 🪙 | Minimum Rare, Légendaire x10, Secret x15 |
 
 ---
 
