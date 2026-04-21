@@ -4,7 +4,7 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 ---
 
-## 🎮 Commandes
+## Commandes
 
 | Commande | Description |
 |----------|-------------|
@@ -19,7 +19,7 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 ---
 
-## 🎁 Cases disponibles
+## Cases disponibles
 
 | Case | Prix | Contenu |
 |------|------|---------|
@@ -29,7 +29,7 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 ---
 
-## ✨ Formules (19 au total)
+## Formules (19 au total)
 
 | Rareté |  | Chance approx. |
 |--------|-------|----------------|
@@ -42,7 +42,7 @@ Bot Discord de case opening de formules style **Sol's RNG**, avec intégration *
 
 ---
 
-## 💡 Ajouter des formules
+## Ajouter des formules
 
 Édite `data/auras.js` et ajoute un objet dans le tableau `AURAS` :
 
